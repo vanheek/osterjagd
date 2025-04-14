@@ -1,1 +1,0 @@
-console.log('Spiel-Logik wird hier geladen');
