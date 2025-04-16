@@ -1,0 +1,1 @@
+// Game logic for Osterjagd in Altensteig
